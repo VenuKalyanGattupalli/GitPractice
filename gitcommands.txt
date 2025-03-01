@@ -4,3 +4,4 @@ git add:- every time u made a chnages u need to use this command
 git commit -m "mesage":- after doing chnages u need to commit the chnages with specific message then only the git can show u the details
 git status:- will show u the staged and unstaged chnages which are not commited or which are not added to stagged area
 git log:- u can see the all the commits details here with specific log ID for each commit
+git restore --staged filename:- this command is used to remove the staged changes and put the in unstagged [D[D[D[D[D[D[D[D[D[D[D[D[D[Dm in unstagged
