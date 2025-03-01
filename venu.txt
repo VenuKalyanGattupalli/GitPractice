@@ -1,0 +1,6 @@
+this is a newfile that containes some more commands
+git reset particularcommithashID:-  this command will make sure that the project will go to the stage how at that particular commit it was 
+so the hashid is given accordingly- comed to unstagged 
+git restore --staged filename:- comed from stagged to unstagged
+git reset --soft id:- comes to staged 
+git checkout -- filename :- can bring back files which are deleted and did restore with soft and are in stagged area
